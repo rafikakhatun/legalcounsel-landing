@@ -4,6 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import AOS from "aos";
 import "aos/dist/aos.css";
+import Navbar from './component/Navbar';
 
 function App() {
   const [count, setCount] = useState(0)
@@ -15,6 +16,7 @@ function App() {
 
   return (
     <>
+    <Navbar></Navbar>
       
     </>
   )
