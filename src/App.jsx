@@ -8,6 +8,7 @@ import Navbar from './component/Navbar';
 import Hero from './component/Hero ';
 import OurServices from './component/OurServices';
 import ExpertAttorneys from './component/ExpertAttorneys';
+import ClientTestimonials from './component/ClientTestimonials';
 
 function App() {
   const [count, setCount] = useState(0)
@@ -23,6 +24,7 @@ function App() {
     <Hero></Hero>
     <OurServices></OurServices>
     <ExpertAttorneys></ExpertAttorneys>
+    <ClientTestimonials></ClientTestimonials>
       
     </>
   )
