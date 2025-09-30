@@ -10,6 +10,7 @@ import OurServices from './component/OurServices';
 import ExpertAttorneys from './component/ExpertAttorneys';
 import ClientTestimonials from './component/ClientTestimonials';
 import ContactUs from './component/ContactUs';
+import Footer from './component/Footer';
 
 function App() {
   const [count, setCount] = useState(0)
@@ -27,6 +28,7 @@ function App() {
     <ExpertAttorneys></ExpertAttorneys>
     <ClientTestimonials></ClientTestimonials>
     <ContactUs></ContactUs>
+    <Footer></Footer>
       
     </>
   )
