@@ -6,6 +6,7 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import Navbar from './component/Navbar';
 import Hero from './component/Hero ';
+import OurServices from './component/OurServices';
 
 function App() {
   const [count, setCount] = useState(0)
@@ -19,6 +20,7 @@ function App() {
     <>
     <Navbar></Navbar>
     <Hero></Hero>
+    <OurServices></OurServices>
       
     </>
   )
