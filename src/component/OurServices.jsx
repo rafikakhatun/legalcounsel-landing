@@ -37,7 +37,7 @@ const OurServices = () => {
           <p className="text-md text-[#4B5563]">
             Expert guidance on business formation, contracts, compliance, and corporate governance.
           </p>
-          <button className="text-[#F59E0B] hover:text-amber-600">Learn More →</button>
+          <button className="text-[#F59E0B] hover:text-amber-700">Learn More →</button>
         </div>
 
         {/* card 2 */}
@@ -47,7 +47,7 @@ const OurServices = () => {
           <p className="text-md text-[#4B5563]">
             Strategic representation in disputes, lawsuits, and settlement negotiations.
           </p>
-          <button className="text-[#F59E0B] hover:text-amber-600">Learn More →</button>
+          <button className="text-[#F59E0B] hover:text-amber-700">Learn More →</button>
         </div>
 
         {/* card 3 */}
@@ -57,7 +57,7 @@ const OurServices = () => {
           <p className="text-md text-[#4B5563]">
             Handling property transactions, leases, zoning issues, and real estate disputes.
           </p>
-          <button className="text-[#F59E0B] hover:text-amber-600">Learn More →</button>
+          <button className="text-[#F59E0B] hover:text-amber-700">Learn More →</button>
         </div>
 
         {/* card 4 */}
@@ -72,7 +72,7 @@ const OurServices = () => {
           <p className="text-md text-[#4B5563]">
             Representation for victims of accidents, negligence, and personal injury claims.
           </p>
-          <button className="text-[#F59E0B] hover:text-amber-600">Learn More →</button>
+          <button className="text-[#F59E0B] hover:text-amber-700">Learn More →</button>
         </div>
 
         {/* card 5 */}
@@ -82,7 +82,7 @@ const OurServices = () => {
           <p className="text-md text-[#4B5563]">
             Compassionate assistance with divorce, custody, adoption, and family matters.
           </p>
-          <button className="text-[#F59E0B] hover:text-amber-600">Learn More →</button>
+          <button className="text-[#F59E0B] hover:text-amber-700">Learn More →</button>
         </div>
 
         {/* card 6 */}
@@ -92,7 +92,7 @@ const OurServices = () => {
           <p className="text-md text-[#4B5563]">
             Creating wills, trusts, and comprehensive estate plans to protect your legacy.
           </p>
-          <button className="text-[#F59E0B] hover:text-amber-600">Learn More →</button>
+          <button className="text-[#F59E0B] hover:text-amber-700">Learn More →</button>
         </div>
       </div>
     </section>
