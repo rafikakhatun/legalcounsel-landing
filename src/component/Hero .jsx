@@ -25,10 +25,10 @@ const Hero = () => {
 
         {/* Button section */}
         <div className="flex flex-col md:flex-row gap-4">
-          <button className="bg-amber-500 hover:bg-amber-600 rounded-md px-6 py-3">
+          <button className="bg-amber-500 hover:bg-amber-600 rounded-md px-6 py-3 cursor-pointer">
             Free Consultation
           </button>
-          <button className="border-2 hover:text-amber-500 hover:border-amber-500 border-white py-3 px-6 rounded-md">
+          <button className="border-2 hover:text-amber-500 hover:border-amber-600 border-white cursor-pointer py-3 px-6 rounded-md">
             Our Services
           </button>
         </div>
